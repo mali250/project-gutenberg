@@ -8,3 +8,4 @@ langdetect
 pymongo
 Werkzeug
 bs4
+python-dotenv

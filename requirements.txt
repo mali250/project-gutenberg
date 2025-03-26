@@ -6,3 +6,4 @@ openai
 jwt
 pymongo
 Werkzeug
+bs4

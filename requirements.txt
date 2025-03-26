@@ -4,6 +4,7 @@ requests
 pydantic
 openai
 jwt
+langdetect
 pymongo
 Werkzeug
 bs4
